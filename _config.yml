@@ -40,7 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 remote_theme: vfvong/jekyll-theme-tao
-theme: jekyll-theme-tao
+# theme: jekyll-theme-tao
 
 categories_path: /
 # tags_path: /tags/
