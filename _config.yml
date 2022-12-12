@@ -36,9 +36,11 @@ author:
   avatar: https://avatars.githubusercontent.com/u/40221885
 
 # Build settings
-theme: jekyll-theme-tao
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+remote_theme: vfvong/jekyll-theme-tao
+theme: jekyll-theme-tao
 
 categories_path: /
 # tags_path: /tags/
