@@ -2,11 +2,9 @@
   url: /about/
 - title: What I Learned Today
   url: /today/
-- title: Graphics
-  url: /graphics/
+- title: Paper Summaries
+  url: /papers/
 - title: Essays
   url: /essays/
-- title: Art
-  url: /art/
 - title: GitHub
   url: https://github.com/Chrezon

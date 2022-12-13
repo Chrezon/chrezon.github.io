@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1 class="page-title">{{ page.title | capitalize }}</h1>
+<h1 class="page-title">{{ page.title }}</h1>
 <section>
   <!-- Changes Chrezon
   {% assign posts = site.posts %}
@@ -11,8 +11,8 @@ layout: default
   {% endif %} End Changes Chrezon--> 
   <!-- Changes Chrezon -->
   {% assign posts = site.posts %}
-  {% if page.type == "graphics" %}
-    {% assign posts = site.categories.graphics %}
+  {% if page.type == "papers" %}
+    {% assign posts = site.categories.paper-summaries %}
   {% elsif page.type == "essays" %}
     {% assign posts = site.categories.essays %} 
   {% endif %}
