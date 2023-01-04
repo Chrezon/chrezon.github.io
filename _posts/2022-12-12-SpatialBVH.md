@@ -2,8 +2,8 @@
 layout: post
 title: Spatial Splits in Bounding Volume Hierarchies [Summary]
 author: [Elaine Zhong]
-categories: paper-summaries
-tags: acceleration-structures
+categories: papers
+tags: [SAH, BVH]
 permalink: /papers/SpatialBVH
 math: true
 image: 
